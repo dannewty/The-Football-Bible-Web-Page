@@ -1,0 +1,59 @@
+
+<!doctype html>
+<html>
+<head>
+<title> Juventus </title>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body id="juvbody">
+
+<div id="container">
+
+	<div class="juvheader"> 
+		<img id="juvbadge" src="Juventus.png">
+	</div>
+
+	<div class="juvsidebar">
+	
+			<h4> Main Players </h4>
+			<p> Cristiano Ronaldo </p>
+			<p> Paulo Dybala </p>
+     </div>
+
+     <div class="juvmain">
+
+<div id="juvbox">
+	 <img src="juvteam.jpg" alt="juventus team photo">
+     		<p> Juventus Football Club colloquially known as Juventus and Juve is a professional football club based in Turin, Piedmont, Italy, that competes in the Serie A, the top flight of Italian football. Founded in 1897 by a group of Torinese students, the club has worn a black and white striped home kit since 1903 and has played home matches in different grounds around its city, the latest being the 41,507-capacity Juventus Stadium. </p>
+    
+</div>
+
+
+
+ </div>
+
+
+
+<div class="juvmain">
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>
