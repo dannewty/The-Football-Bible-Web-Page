@@ -1,0 +1,45 @@
+
+<!doctype html>
+<html>
+
+<head>
+
+<title> The Football Bible </title>
+
+<meta name="description" content="This Web page is about the History of Football." />
+<meta name="keywords" content="Man United,Bayern Munich,Champions League" />
+<meta http-equiv="author" content="Daniel Newton" />
+<meta http-equiv="content-langauge" content="en-us" />
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head> 
+
+<body id="index"> 
+
+<div id="indexheader">
+	The Football Bible 
+</div>
+
+
+
+<div id="nav">
+<ul>
+	<li> <a href="Manchester United Page.html"> Manchester United </a> </li> 
+	<li> <a href="Bayern Munich.html">Bayern Munich </a> </li>
+	<li> <a href="Juventus.html">Juventus </a> </li>
+	<li> <a href="Real Madrid.html">Real Madrid </a></li> 
+</ul>
+
+</div>
+
+<img id="rooney" src="rooney.jpg"> <img id="cr7" src="cr7.png"> <p class="explore"> Check out some cool facts about the worlds best football clubs! </p> <iframe id="messi" src="https://giphy.com/embed/W1TPavKSPEVVjz4LAJ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> 
+
+<div id="indexfooter">
+<ul>
+	<li> Contact us </li>
+	<li> Help </li>
+</ul> <br>
+	&copy; 2021 TheFootball Bible. <strong>All Rights Reserved.</strong>
+</div>
+
+</body>
+</html>
