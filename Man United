@@ -1,0 +1,32 @@
+
+<!doctype html>
+<html> 
+
+<head>
+<title> Manchester United </title>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body id="munbody">
+	<img id="munbadge" src="Manchester United.png" title="Manchester United" alt="Manchester United">
+	<div id="munfirstheading">
+<h1> Manchester United </h1>
+	<p class="manupage"> Check out the official Manchester United web page <a href="https://www.manutd.com/"> here </a> </p>
+</div>
+
+<p class="munsection1"> <abbr title="Manchester United"></abbr> MUN is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed <span style="color: red"> "the Red Devils" </span>, the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910. </p>
+
+<img class="oldtraff" src="old trafford.jpg" width="362" height="243" alt="Old Trafford"> <p class="munsection2"> Manchester United have won more trophies than any other club in English football, with a record <mark>20 League titles</mark>, 12 FA Cups, five League Cups and a record 21 FA Community Shields. United have also won three UEFA Champions Leagues, one UEFA Europa League, one UEFA Cup Winners' Cup, one UEFA Super Cup, one Intercontinental Cup and one FIFA Club World Cup. In 1998–99, the club became the first in the history of English football to achieve the continental European treble. By winning the UEFA Europa League in 2016–17, they became one of five clubs to have won all three main UEFA club competitions. <br> <br>
+<i> <q> Ive never played for a draw in my life</q> </i> - Sir Alex Ferguson. </p> </p>
+
+<p id="munpara3"> The 1958 Munich air disaster claimed the lives of eight players. In 1968, under the management of Matt Busby, Manchester United became the first English football club to win the European Cup. Alex Ferguson won 38 trophies as manager, including 13 Premier League titles, 5 FA Cups and 2 UEFA Champions Leagues, between 1986 and 2013, when he announced his retirement. Manchester United is one of the most widely supported football clubs in the world,and has rivalries with Liverpool, Manchester City, Arsenal and Leeds United.  </p>
+
+<button onclick="document.getElementById('munsound').src='Glory Glory Man United Karaoke.mp3'"> Play Me! </button>
+
+
+<audio controls loop draggable="true">
+	<source id="munsound" src="Glory Glory Man United Karaoke.mp3" type="">
+</audio>
+
+	</body>
+</html>
